@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Swtjface
+Bundle-SymbolicName: com.eclipsercp.swtjface;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: ECLIPSERCP
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
